@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Geometry",
+            "request": "launch",
+            "mainClass": "Geometry",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
+            "name": "NumberToWords",
+            "request": "launch",
+            "mainClass": "NumberToWords",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
+            "name": "binarysearchq1",
+            "request": "launch",
+            "mainClass": "binarysearchq1",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "linearsearch",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
+            "name": "prob",
+            "request": "launch",
+            "mainClass": "prob",
+            "projectName": "Dsa_4173e43b"
+        }
+    ]
+}
