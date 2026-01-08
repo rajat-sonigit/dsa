@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hollowrectangle",
+            "request": "launch",
+            "mainClass": "hollowrectangle",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
