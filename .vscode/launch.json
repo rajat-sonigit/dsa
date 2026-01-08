@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cstar",
+            "request": "launch",
+            "mainClass": "cstar",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
+            "name": "startplus",
+            "request": "launch",
+            "mainClass": "startplus",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
             "name": "hollowrectangle",
             "request": "launch",
             "mainClass": "hollowrectangle",
