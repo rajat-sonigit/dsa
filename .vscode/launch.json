@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binarytriangle",
+            "request": "launch",
+            "mainClass": "binarytriangle",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
+            "name": "floydstriangle",
+            "request": "launch",
+            "mainClass": "floydstriangle",
+            "projectName": "Dsa_4173e43b"
+        },
+        {
+            "type": "java",
             "name": "cstar",
             "request": "launch",
             "mainClass": "cstar",
