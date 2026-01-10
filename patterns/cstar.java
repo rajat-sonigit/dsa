@@ -1,3 +1,4 @@
+package patterns;
 public class cstar {
     public static void main(String[] args) {
         int n = 5; // You can change this value to increase/decrease the size of the pattern
