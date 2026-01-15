@@ -1,0 +1,20 @@
+package patterns;
+
+public class intprosumsub {
+    public static void main(String[] args) {
+        int n = 234;
+        int sum = 0 ;
+        int product = 1 ;
+        
+        while(n > 0){
+            int rem = n % 10 ;
+             sum = sum + rem;
+             product = product * rem ;
+            n = n/10;
+            
+        }
+        int ans = product - sum ;
+        System.out.println(ans);
+          
+    }
+}
